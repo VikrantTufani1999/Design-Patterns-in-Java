@@ -1,5 +1,3 @@
-# SOLID-Principles---Java
-
 # Java
 
 ## SOLID Principles

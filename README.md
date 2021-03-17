@@ -1,10 +1,10 @@
 # SOLID-Principles---Java
 
-#Java
+# Java
 
-##SOLID Principles
+## SOLID Principles
 
-###Repo-Content:
+### Repo-Content:
 #### - Session 1
 ##### Implementation of SRP & IAP
 

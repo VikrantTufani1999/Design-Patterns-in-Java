@@ -4,7 +4,7 @@
 
 ### Repo-Content:
 #### - Session 1
-##### Implementation of SRP & IAP
+##### Implementation of SRP & ISP
 
 
 

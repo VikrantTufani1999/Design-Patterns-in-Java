@@ -5,20 +5,20 @@
 ### Repo-Content:
 #### Day 1
 - Implementation of SRP & ISP
-##### Abstract Factory
-##### Singleton
+- Abstract Factory
+- Singleton
 
 #### Day 2
 
-##### Adaptor Pattern
-##### Builder Pattern
-##### Chain of Responsibility
-##### Facade Pattern
+- Adaptor Pattern
+- Builder Pattern
+- Chain of Responsibility
+- Facade Pattern
 
 #### Day 3
 
-##### Mediator Pattern
-##### Observer Pattern
+- Mediator Pattern
+- Observer Pattern
 
 
 

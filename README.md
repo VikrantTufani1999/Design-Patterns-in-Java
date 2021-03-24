@@ -4,7 +4,7 @@
 
 ### Repo-Content:
 #### Day 1
-##### Implementation of SRP & ISP
+- Implementation of SRP & ISP
 ##### Abstract Factory
 ##### Singleton
 

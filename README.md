@@ -1,6 +1,6 @@
 # Java
 
-## SOLID Principles
+## Design Patterns
 
 ### Repo-Content:
 #### Day 1
